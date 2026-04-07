@@ -1,7 +1,12 @@
 aid: lkq
-url: https://raw.githubusercontent.com/api-evangelist/lkq/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/lkq/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.lkq.com
+description: >-
+  LKQ Corporation is a leading provider of alternative and specialty parts to repair
+  and accessorize automobiles and other vehicles, with operations across North America,
+  Europe, and Taiwan.
