@@ -22,6 +22,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lkq-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lkq-corporation
   - type: Website
@@ -36,6 +38,8 @@ common:
     url: https://investor.lkqcorp.com/news-events/news-releases
   - type: Locations
     url: https://www.lkqcorp.com/locations/
+  - url: https://lkqcorp.com/feed/
+    type: Blog
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
