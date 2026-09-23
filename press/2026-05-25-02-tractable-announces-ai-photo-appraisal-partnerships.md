@@ -1,7 +1,9 @@
 ---
 title: Tractable announces AI photo appraisal partnerships
 url: https://insurancenewsnet.com/oarticle/tractable-announces-ai-photo-appraisal-partnerships
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"LKQ" press release artificial intelligence'
 position: 2
 source: serpapi-google
