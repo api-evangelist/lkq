@@ -1,5 +1,5 @@
 aid: lkq
-name: LKQ Corporation
+name: LKQ
 description: >-
   LKQ Corporation is a Fortune 500 company and a leading provider of alternative
   and specialty parts to repair and accessorize automobiles and other vehicles,
@@ -65,3 +65,4 @@ common:
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
+x-legal-name: LKQ Corporation
